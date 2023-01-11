@@ -1,6 +1,11 @@
 {
     "name":"aayushi",
     "feild":"BCA",
-    "school":"STJPS"
-
+    "school":"STJPS",
+"fooditems":["samosa","chatni","panipuri","masala "],
+"myobj":{
+    "name":"aayusui",
+    "hen":"male",
+    "chi":"chickem"
+}
 }
