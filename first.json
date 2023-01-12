@@ -6,6 +6,9 @@
 "myobj":{
     "name":"aayusui",
     "hen":"male",
-    "chi":"chickem"
+    "myobj2":{
+        "laptop":"hp",
+        "lolipop":"great song"
+    }
 }
 }
